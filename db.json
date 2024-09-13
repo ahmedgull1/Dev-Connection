@@ -1,0 +1,47 @@
+{
+  "devUsers": [
+    {
+      "name": "kaleem",
+      "email": "abdullahgull@gmail.com",
+      "status": "Senior Developer",
+      "website": " Digital Vertax",
+      "location": "IT tower near hafeez center lahore gullbarg 3",
+      "company": "Digital Vertax",
+      "skills": "Html , css, javascript Html , css, javascript,Html , css, javascript,Html , css, javascript",
+      "bio": "i am nothing somthing writing here ",
+      "id": "598e",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe29PCQXr-U-U8210bxXvF9n9sMFqtgX3jbA&s"
+    },
+    {
+      "company": "Digital Vertax",
+      "website": " Digital Vertax",
+      "location": "IT tower near hafeez center lahore gullbarg 3",
+      "status": "Developer",
+      "skills": "Html , css, javascript, react js, tailwind, redux js, RTK",
+      "bio": "i am nothing somthing writing here",
+      "id": "e974",
+      "name": "Ahmed khan",
+      "email": "kaleem@gmail.com",
+      "img": "https://media.licdn.com/dms/image/v2/D4D03AQFywE9iJ_U0Iw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1725044776274?e=1731542400&v=beta&t=_NUt-beKNYlzPrPYT5i0KsxZR3WJW2m_Q9slyPdSTDc",
+      "Github": "kaleemgithun",
+      "password": "12345",
+      "confirm_password": "12345"
+    },
+    
+    {
+      "company": "Digital Vertax",
+      "website": "Digitalweb",
+      "location": "LAHORE ",
+      "status": "Junior Developer",
+      "skills": "HTML , CSS, JavaScript, React JS, Tailwind, Redux JS, RTK",
+      "bio": "Hi!  \nMy name is Ahmed khan I'am front end web developer ",
+      "id": "c0ed",
+      "name": "Ahmed khan ",
+      "email": "ahmedgull3575@gmail.com",
+      "img": "https://avatars.githubusercontent.com/u/179117784?v=4",
+      "Github": "ahmedgull1",
+      "password": "000",
+      "confirm_password": "000"
+    }
+  ]
+}
